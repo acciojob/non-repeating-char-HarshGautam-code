@@ -1,6 +1,6 @@
 function firstNonRepeatedChar(str) {
  // Write your code here
-	  t
+	
   let freq = {};
 
     // count frequency
